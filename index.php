@@ -1,5 +1,5 @@
 <?php include('header.php'); ?>
-<div class="uk-container">
+<div class="uk-container uk-margin-bottom">
     <div class="box1 uk-margin uk-flex uk-flex-between uk-flex-middle">
         <div class="uk-flex uk-flex-middle">
             <h3 class="uk-text-uppercase txt_tieudiem uk-flex uk-flex-middle">

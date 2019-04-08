@@ -244,8 +244,102 @@
             <div class="uk-margin-small">
                 <a href="#"><img class="uk-width-1-1" src="imgs/banner4.png" alt=""></a>
             </div>
-            <div class="uk-margin uk-card uk-card-default uk-card-body uk-padding-small">
-
+            <div class="uk-margin card2 uk-card uk-card-default uk-card-body uk-padding-small">
+                <div class="top_1 uk-flex uk-flex-bottom uk-flex-between uk-margin-small">
+                    <h3 class="title1 uk-text-uppercase">thư viện video</h3>
+                    <a class="uk-margin-small-right" href="#">Xem thêm <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                </div>
+                <div class="uk-margin-small">
+                    <div class="uk-cover-container">
+                        <img src="https://znews-photo.zadn.vn/w480/Uploaded/ofh_cgmzstgk/2019_04_08/f42eff6b75c0979eced1_thumb.jpg" alt="" uk-cover>
+                        <canvas width="259" height="146"></canvas>
+                        <div class="uk-position-cover uk-overlay uk-overlay-primary uk-flex uk-flex-center uk-flex-middle"></div>
+                        <div class="uk-position-center">
+                            <a href="#"><img src="imgs/btn-play1.png" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="uk-padding-small box3">
+                        <h3 class="title5"><a href="#">Lễ công bố và trao Quyết định điều động và bổ nhiệm Phó Giám đốc</a></h3>
+                        <time>20/10/2016 - 1.600 lượt xem</time>
+                    </div>
+                </div>
+                <div class="uk-grid-small grid-video uk-child-width-1-3" uk-grid>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-photo.zadn.vn/w480/Uploaded/mdf_fsxrff/2019_04_08/vfs1379936251.jpg" alt="" uk-cover>
+                            <canvas width="82" height="50"></canvas>
+                            <div class="uk-position-cover uk-overlay uk-overlay-primary uk-flex uk-flex-center uk-flex-middle"></div>
+                            <div class="uk-position-center">
+                                <a href="#"><img src="imgs/btn-play2.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-photo.zadn.vn/w480/Uploaded/kbd_ivdb/2019_04_08/20190408_195029.jpg" alt="" uk-cover>
+                            <canvas width="82" height="50"></canvas>
+                            <div class="uk-position-cover uk-overlay uk-overlay-primary uk-flex uk-flex-center uk-flex-middle"></div>
+                            <div class="uk-position-center">
+                                <a href="#"><img src="imgs/btn-play2.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-photo.zadn.vn/w480/Uploaded/neg_glyrtla/2019_04_08/to_trinh.jpg" alt="" uk-cover>
+                            <canvas width="82" height="50"></canvas>
+                            <div class="uk-position-cover uk-overlay uk-overlay-primary uk-flex uk-flex-center uk-flex-middle"></div>
+                            <div class="uk-position-center">
+                                <a href="#"><img src="imgs/btn-play2.png" alt=""></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-margin card2 uk-card uk-card-default uk-card-body uk-padding-small">
+                <div class="top_1 uk-flex uk-flex-bottom uk-flex-between uk-margin-small">
+                    <h3 class="title1 uk-text-uppercase">hình ảnh hoạt động</h3>
+                    <a class="uk-margin-small-right" href="#">Xem thêm <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                </div>
+                <div class="uk-grid-small grid-video uk-child-width-1-2" uk-grid>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-photo.zadn.vn/w480/Uploaded/mdf_fsxrff/2019_04_08/vfs1379936251.jpg" alt="" uk-cover>
+                            <canvas width="129" height="71"></canvas>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-photo.zadn.vn/w480/Uploaded/kbd_ivdb/2019_04_08/20190408_194534_thumb.jpg" alt="" uk-cover>
+                            <canvas width="129" height="71"></canvas>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-photo.zadn.vn/w480/Uploaded/mdf_fsxrff/2019_04_08/84_cho_vay.jpg" alt="" uk-cover>
+                            <canvas width="129" height="71"></canvas>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-photo.zadn.vn/w480/Uploaded/qhj_jwrscslhfo/2019_04_08/Image2_1.jpg" alt="" uk-cover>
+                            <canvas width="129" height="71"></canvas>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-gif.zadn.vn/Uploaded/pgi_ubnvgunau/2019_04_08/ezgifcomoptimize8.gif" alt="" uk-cover>
+                            <canvas width="129" height="71"></canvas>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-cover-container">
+                            <img src="https://znews-photo.zadn.vn/w480/Uploaded/kbd_bcvi/2019_04_07/dua_hau.jpg" alt="" uk-cover>
+                            <canvas width="129" height="71"></canvas>
+                        </div>
+                    </div>
+                </div>
+                <h3 class="title6"><a href="#">Chất lượng đào tạo là thước đo trường đại học</a></h3>
             </div>
         </div>
     </div>

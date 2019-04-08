@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5f5f82-249a-4fbf-93be-f7c0174febaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fonts/Roboto/Roboto-Medium_0.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_fonts.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_card.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_home.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,13 +30,13 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="246" column="87" selection-start-line="246" selection-start-column="87" selection-end-line="246" selection-end-column="87" />
+                <state relative-caret-position="530">
+                  <caret line="341" column="92" selection-start-line="341" selection-start-column="92" selection-end-line="341" selection-end-column="92" />
                   <folding>
-                    <element signature="e#661#7173#0#HTML" />
                     <element signature="e#1643#1674#0#HTML" expanded="true" />
-                    <element signature="e#3065#3106#0#HTML" />
                     <element signature="e#11919#11946#0#HTML" expanded="true" />
+                    <element signature="e#14530#14626#0#HTML" />
+                    <element signature="e#19374#21450#0#HTML" />
                   </folding>
                 </state>
               </provider>
@@ -83,8 +80,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/_home.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="545">
-                  <caret line="158" column="31" selection-start-line="158" selection-start-column="31" selection-end-line="158" selection-end-column="31" />
+                <state relative-caret-position="650">
+                  <caret line="200" column="19" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -110,8 +107,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scss/_card.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+                <state relative-caret-position="420">
+                  <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
                 </state>
               </provider>
             </entry>
@@ -144,12 +141,12 @@
         <option value="$PROJECT_DIR$/scss/_header.scss" />
         <option value="$PROJECT_DIR$/scss/layout.scss" />
         <option value="$PROJECT_DIR$/scss/_commons.scss" />
-        <option value="$PROJECT_DIR$/scss/_card.scss" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/scss/_fonts.scss" />
-        <option value="$PROJECT_DIR$/scss/_home.scss" />
+        <option value="$PROJECT_DIR$/scss/_card.scss" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/scss/_home.scss" />
       </list>
     </option>
   </component>
@@ -177,28 +174,6 @@
               <item name="html.tsc" type="b2602c69:ProjectViewProjectNode" />
               <item name="html.tsc" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.tsc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.tsc" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.tsc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.tsc" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="Roboto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.tsc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.tsc" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
-              <item name="UTM Cafeta" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.tsc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.tsc" type="462c0819:PsiDirectoryNode" />
-              <item name="imgs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="html.tsc" type="b2602c69:ProjectViewProjectNode" />
@@ -251,12 +226,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554697783163</updated>
-      <workItem from="1554697784719" duration="15334000" />
+      <workItem from="1554697784719" duration="16921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15334000" />
+    <option name="totallyTimeSpent" value="16921000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
@@ -332,13 +307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_card.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -383,23 +351,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_home.scss">
+    <entry file="file://$PROJECT_DIR$/scss/_card.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="158" column="31" selection-start-line="158" selection-start-column="31" selection-end-line="158" selection-end-column="31" />
+        <state relative-caret-position="420">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="246" column="87" selection-start-line="246" selection-start-column="87" selection-end-line="246" selection-end-column="87" />
+        <state relative-caret-position="530">
+          <caret line="341" column="92" selection-start-line="341" selection-start-column="92" selection-end-line="341" selection-end-column="92" />
           <folding>
-            <element signature="e#661#7173#0#HTML" />
             <element signature="e#1643#1674#0#HTML" expanded="true" />
-            <element signature="e#3065#3106#0#HTML" />
             <element signature="e#11919#11946#0#HTML" expanded="true" />
+            <element signature="e#14530#14626#0#HTML" />
+            <element signature="e#19374#21450#0#HTML" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="200" column="19" selection-start-line="200" selection-start-column="19" selection-end-line="200" selection-end-column="19" />
         </state>
       </provider>
     </entry>

@@ -341,6 +341,64 @@
                 </div>
                 <h3 class="title6"><a href="#">Chất lượng đào tạo là thước đo trường đại học</a></h3>
             </div>
+            <div class="uk-margin card3 uk-card uk-card-default">
+                <div class="uk-card-header uk-padding-small">
+                    <h3 class="title uk-text-uppercase">xem nhiều</h3>
+                </div>
+                <div class="uk-card-body uk-padding-small">
+                    <div class="item1">
+                        <div class="uk-grid-small" uk-grid>
+                            <div class="uk-width-auto"><i>1.</i></div>
+                            <div class="uk-width-expand">
+                                <h3 class="title4"><a href="#">Ban hành danh sách các đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và đào tạo hôn đặc biệt khó khăn</a></h3>
+                                <time class="time1">11.07.2016 | duynguyen@gmail.com</time>
+                                <p>Chính phủ vừa ban hành Nghị định 116/2016/NĐ-CP116/2016..<a href="#">Chi tiết</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item1">
+                        <div class="uk-grid-small" uk-grid>
+                            <div class="uk-width-auto"><i>2.</i></div>
+                            <div class="uk-width-expand">
+                                <h3 class="title4"><a href="#">Ban hành danh sách các đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và đào tạo hôn đặc biệt khó khăn</a></h3>
+                                <time class="time1">11.07.2016 | duynguyen@gmail.com</time>
+                                <p>Chính phủ vừa ban hành Nghị định 116/2016/NĐ-CP116/2016..<a href="#">Chi tiết</a></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item1">
+                        <div class="uk-grid-small" uk-grid>
+                            <div class="uk-width-auto"><i>3.</i></div>
+                            <div class="uk-width-expand">
+                                <h3 class="title4"><a href="#">Ban hành danh sách các đơn vị sự nghiệp công lập trực thuộc Bộ Giáo dục và đào tạo hôn đặc biệt khó khăn</a></h3>
+                                <time class="time1">11.07.2016 | duynguyen@gmail.com</time>
+                                <p>Chính phủ vừa ban hành Nghị định 116/2016/NĐ-CP116/2016..<a href="#">Chi tiết</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="uk-card-footer uk-padding-small">
+                    <a href="#" class="uk-button uk-button-default uk-width-1-1 uk-padding-small uk-padding-remove-top uk-padding-remove-bottom btn-send1"><img class="uk-margin-small-right" src="imgs/icon2.png" alt=""> gửi câu hỏi cho tòa soạn</a>
+                </div>
+            </div>
+            <div class="uk-margin-small">
+                <a href="#"><img class="uk-width-1-1" src="imgs/banner9.png" alt=""></a>
+            </div>
+            <div class="uk-margin-small">
+                <a href="#"><img class="uk-width-1-1" src="imgs/banner10.png" alt=""></a>
+            </div>
+            <div class="uk-margin-small">
+                <a href="#"><img class="uk-width-1-1" src="imgs/banner11.png" alt=""></a>
+            </div>
+            <div class="uk-margin-small">
+                <a href="#"><img class="uk-width-1-1" src="imgs/banner12.png" alt=""></a>
+            </div>
+            <div class="uk-margin-small">
+                <a href="#"><img class="uk-width-1-1" src="imgs/banner13.png" alt=""></a>
+            </div>
+            <div class="uk-margin-small">
+                <a href="#"><img class="uk-width-1-1" src="imgs/banner14.png" alt=""></a>
+            </div>
         </div>
     </div>
 </div>

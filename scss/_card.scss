@@ -28,3 +28,46 @@
   border: 1px solid #e4e8e8;
   border-top: 1px solid #005cb1;
 }
+.card3{
+  .uk-card-header{
+    background-color: #3d51a0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    .title{
+      color: #ffffff;
+      font-family: 'UTM Cafeta';
+      font-size: 20px;
+      margin: 0;
+    }
+  }
+  .uk-card-footer{
+    margin-top: -1px;
+    border: 1px solid #e4e8e8;
+  }
+  .uk-card-body{
+    border: 1px solid #e4e8e8;
+    border-top: none;
+    .title4{
+      margin-bottom: 5px;
+    }
+    .time1{
+      font-size: 12px;
+      font-family:'Roboto-Regular';
+      color: #999999;
+    }
+    p{
+      margin-top: 0;
+      a{
+        color: #e60009;
+      }
+    }
+    .item1{
+      &:nth-child(n+2){
+        border-top: 1px #ebebeb;
+        border-top-style: dashed;
+        padding-top: 10px;
+        margin-top: 10px;
+      }
+    }
+  }
+}

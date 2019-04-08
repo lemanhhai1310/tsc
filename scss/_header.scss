@@ -1,6 +1,36 @@
 .title_logo1{
-
+  font-family:'UTM AvoBold';
+  font-size: 20px;
+  margin: 0;
+  color: #97204a;
+  margin-bottom: 5px;
 }
 .title_logo2{
-
+  font-family:'UTM AvoBold';
+  font-size: 16px;
+  margin: 0;
+  color: #3d519f;
+}
+.top_header{
+  padding: 10px 0;
+}
+#header{
+  background-color: #3d519f;
+  margin-bottom: 10px;
+  .uk-navbar-nav{
+    >li{
+      &.uk-active{
+        >a{
+          background-color: #97204a;
+        }
+      }
+      >a{
+        color: #ffffff;
+        min-height: 40px;
+        font-family:'UTM AvoBold';
+        font-size: 12px;
+        position: relative;
+      }
+    }
+  }
 }

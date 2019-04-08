@@ -1,0 +1,25 @@
+.card1{
+  .uk-card-body{
+    height: calc(478px - 30px);
+  }
+}
+.box2{
+  background-color: #003ecd;
+  color: #ffffff;
+  .uk-card-title{
+    font-size: 18px;
+    margin: 0;
+    font-family:'Roboto-Bold_0';
+    a{
+      color: #ffffff;
+    }
+  }
+  p{
+    font-size: 14px;
+    color: #6cb6fc;
+    font-family:'Roboto-Regular';
+    margin-top: 10px;
+    margin-bottom: 0;
+
+  }
+}

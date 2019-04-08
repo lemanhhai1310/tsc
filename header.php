@@ -40,11 +40,11 @@
      theme_color="#24892d">
 </div>
 <section id="root" class="uk-height-viewport uk-offcanvas-content">
-<div class="uk-section-xsmall">
+<div class="uk-section-xsmall top_header uk-background-contain" style="background-image: url(imgs/bg-header.png)">
     <div class="uk-container">
-        <div class="uk-grid-small uk-child-width-auto" uk-grid>
+        <div class="uk-grid-small uk-child-width-auto uk-flex-between" uk-grid>
             <div>
-                <div class="uk-grid-small" uk-grid>
+                <div class="uk-grid-small uk-flex-middle" uk-grid>
                     <div class="uk-width-auto">
                         <figure><a href="#"><img src="imgs/logo.png" alt=""></a></figure>
                     </div>
@@ -55,8 +55,56 @@
                 </div>
             </div>
             <div>
-
+                <a href="#"><img src="imgs/flag-vi.png" alt=""></a>
+                <a href="#"><img src="imgs/flag-en.png" alt=""></a>
             </div>
         </div>
     </div>
 </div>
+<header id="header">
+    <div class="uk-container">
+        <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
+            <div class="uk-navbar-left">
+
+                <ul class="uk-navbar-nav">
+                    <li class="uk-active"><a href="#">trang chủ</a></li>
+                    <li>
+                        <a href="#">Giới thiệu <span uk-icon="chevron-down"></span></a>
+                        <div class="uk-navbar-dropdown uk-margin-remove uk-padding-remove" uk-dropdown="animation: uk-animation-slide-bottom-small; duration: 300">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li><a href="#">Tổng quan</a></li>
+                                <li><a href="#">Chính sách chất lượng</a></li>
+                                <li><a href="#">Quá trình hình thành phát triển</a></li>
+                                <li><a href="#">Ban điều hành</a></li>
+                                <li><a href="#">Sơ đồ tổ chức</a></li>
+                                <li><a href="#">Đơn vị thành viên</a></li>
+                                <li>
+                                    <a href="#">Công bố thông tin</a>
+                                    <ul class="uk-nav uk-navbar-dropdown-nav" uk-dropdown="pos: right-top; animation: uk-animation-slide-bottom-small; duration: 300">
+                                        <li><a href="#">Thông cáo báo chí</a></li>
+                                        <li><a href="#">Công bố thông tin EVN SPC</a></li>
+                                        <li><a href="#">Đề án tái cơ cấu doanh nghiệp</a></li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <a href="#">Văn hóa doanh nghiệp</a>
+                                    <ul class="uk-nav uk-navbar-dropdown-nav" uk-dropdown="pos: right-top; animation: uk-animation-slide-bottom-small; duration: 300">
+                                        <li><a href="#">Tin mới</a></li>
+                                        <li><a href="#">Câu chuyện văn hóa</a></li>
+                                        <li><a href="#">Văn hóa EVNSPC với Khách hàng</a></li>
+                                        <li><a href="#">Gương điển hình</a></li>
+                                        <li><a href="#">Sự kiện văn hóa</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li><a href="#">tin tức</a></li>
+                    <li><a href="#">văn bản</a></li>
+                    <li><a href="#">thống kê</a></li>
+                    <li><a href="#">liên hệ</a></li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>

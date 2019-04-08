@@ -61,7 +61,7 @@
         </div>
     </div>
 </div>
-<header id="header">
+<header id="header" uk-sticky>
     <div class="uk-container">
         <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
             <div class="uk-navbar-left">

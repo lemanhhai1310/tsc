@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5f5f82-249a-4fbf-93be-f7c0174febaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hoidap-chitiet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hoidap-thanhcong.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modal_thanhcong.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hoidap.php" beforeDir="false" afterPath="$PROJECT_DIR$/hoidap.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/_hoidap.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_hoidap.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/_menu_hover_sub.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_menu_hover_sub.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,22 +20,10 @@
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/footer.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="65" column="57" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="57" />
-                  <folding>
-                    <element signature="n#div#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="501">
-                  <caret line="105" column="25" lean-forward="true" selection-start-line="88" selection-start-column="20" selection-end-line="105" selection-end-column="25" />
+                <state>
+                  <caret selection-end-column="31" />
                   <folding>
                     <element signature="e#1643#1674#0#HTML" expanded="true" />
                     <element signature="e#11919#11946#0#HTML" expanded="true" />
@@ -71,23 +58,22 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/hoidap.php">
+            <entry file="file://$PROJECT_DIR$/hoidap-thanhcong.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="443">
-                  <caret line="47" column="59" lean-forward="true" selection-start-line="47" selection-start-column="59" selection-end-line="47" selection-end-column="59" />
+                <state relative-caret-position="245">
+                  <caret line="124" column="44" selection-start-line="124" selection-start-column="44" selection-end-line="124" selection-end-column="44" />
+                  <folding>
+                    <element signature="e#6050#9210#0#HTML" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/hoidap-chitiet.php">
+            <entry file="file://$PROJECT_DIR$/modal_thanhcong.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="545">
-                  <caret line="114" column="56" selection-start-line="114" selection-start-column="56" selection-end-line="114" selection-end-column="56" />
-                  <folding>
-                    <element signature="e#4891#5849#0#HTML" />
-                    <element signature="e#3181#12833#0#HTML" />
-                  </folding>
+                <state relative-caret-position="45">
+                  <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
                 </state>
               </provider>
             </entry>
@@ -144,8 +130,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/_hoidap.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="620">
-                  <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+                <state relative-caret-position="650">
+                  <caret line="111" column="26" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
                 </state>
               </provider>
             </entry>
@@ -234,8 +220,10 @@
         <option value="$PROJECT_DIR$/scss/layout.scss" />
         <option value="$PROJECT_DIR$/scss/_menu_hover_sub.scss" />
         <option value="$PROJECT_DIR$/hoidap.php" />
-        <option value="$PROJECT_DIR$/scss/_hoidap.scss" />
         <option value="$PROJECT_DIR$/hoidap-chitiet.php" />
+        <option value="$PROJECT_DIR$/hoidap-thanhcong.php" />
+        <option value="$PROJECT_DIR$/scss/_hoidap.scss" />
+        <option value="$PROJECT_DIR$/modal_thanhcong.php" />
       </list>
     </option>
   </component>
@@ -263,11 +251,6 @@
               <item name="html.tsc" type="b2602c69:ProjectViewProjectNode" />
               <item name="html.tsc" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html.tsc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html.tsc" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,12 +301,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554697783163</updated>
-      <workItem from="1554697784719" duration="33891000" />
+      <workItem from="1554697784719" duration="34558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33891000" />
+    <option name="totallyTimeSpent" value="34558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
@@ -582,10 +565,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hoidap-chitiet.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="115" column="38" lean-forward="true" selection-start-line="115" selection-start-column="38" selection-end-line="115" selection-end-column="38" />
+          <folding>
+            <element signature="e#4891#5849#0#HTML" />
+            <element signature="e#3181#12833#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="105" column="25" lean-forward="true" selection-start-line="88" selection-start-column="20" selection-end-line="105" selection-end-column="25" />
+        <state>
+          <caret selection-end-column="31" />
           <folding>
             <element signature="e#1643#1674#0#HTML" expanded="true" />
             <element signature="e#11919#11946#0#HTML" expanded="true" />
@@ -596,21 +590,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_hoidap.scss">
+    <entry file="file://$PROJECT_DIR$/hoidap-thanhcong.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="620">
-          <caret line="96" column="22" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+        <state relative-caret-position="245">
+          <caret line="124" column="44" selection-start-line="124" selection-start-column="44" selection-end-line="124" selection-end-column="44" />
+          <folding>
+            <element signature="e#6050#9210#0#HTML" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hoidap-chitiet.php">
+    <entry file="file://$PROJECT_DIR$/scss/_hoidap.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="114" column="56" selection-start-line="114" selection-start-column="56" selection-end-line="114" selection-end-column="56" />
-          <folding>
-            <element signature="e#4891#5849#0#HTML" />
-            <element signature="e#3181#12833#0#HTML" />
-          </folding>
+        <state relative-caret-position="650">
+          <caret line="111" column="26" selection-start-line="111" selection-start-column="26" selection-end-line="111" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_thanhcong.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="79" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
         </state>
       </provider>
     </entry>

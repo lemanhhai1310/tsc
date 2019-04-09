@@ -1,16 +1,53 @@
 <?php include('header.php'); ?>
 <div class="uk-container uk-margin-bottom">
-    <div class="box1 uk-margin uk-flex uk-flex-between uk-flex-middle">
-        <div class="uk-flex uk-flex-middle">
-            <h3 class="uk-text-uppercase txt_tieudiem uk-flex uk-flex-middle">
-                <img src="imgs/ico_hot.png" alt="">
-                tiêu điểm
-            </h3>
+    <div class="box1 uk-margin">
+        <div class="uk-grid-small" uk-grid>
+            <div class="uk-width-expand">
+                <div class="uk-grid-small uk-flex uk-flex-middle" uk-grid>
+                    <div class="uk-width-auto@s">
+                        <h3 class="uk-text-uppercase txt_tieudiem uk-flex uk-flex-middle">
+                            <img src="imgs/ico_hot.png" alt="">
+                            tiêu điểm
+                        </h3>
+                    </div>
+                    <div class="uk-width-expand@s">
+                        <div id="tieudiem" class="owl-carousel owl-theme">
+                            <div class="item"><a href="#">Ký kết giữa HUBA và Trung tâm Hỗ trợ Đào tạo và Cung ứng Nhân lực</a></div>
+                            <div class="item"><a href="#">Khi ngôi sao YouTube kiệt sức, công việc thú vị dần trở nên nghiệt ngã</a></div>
+                            <div class="item"><a href="#">Đôi nam nữ chụp nude ở hồ Tuyền Lâm nói gì khi bị 'ném đá' trên mạng</a></div>
+                        </div>
+                        <script>
+                            $('#tieudiem').owlCarousel({
+                                loop:true,
+                                margin:10,
+                                nav:false,
+                                dots: false,
+                                animateIn: 'uk-animation-fade',
+                                autoplay: true,
+                                lazyLoad: true,
+                                responsive:{
+                                    0:{
+                                        items:1
+                                    },
+                                    600:{
+                                        items:1
+                                    },
+                                    1000:{
+                                        items:1
+                                    }
+                                }
+                            })
+                        </script>
+                    </div>
+                </div>
+            </div>
+            <div class="uk-width-auto">
+                <form class="uk-search uk-search-default search_h uk-visible@m">
+                    <a href="" class="uk-search-icon-flip" uk-search-icon></a>
+                    <input class="uk-search-input" type="search" placeholder="Từ khóa tìm kiếm">
+                </form>
+            </div>
         </div>
-        <form class="uk-search uk-search-default search_h">
-            <a href="" class="uk-search-icon-flip" uk-search-icon></a>
-            <input class="uk-search-input" type="search" placeholder="Từ khóa tìm kiếm">
-        </form>
     </div>
     <div class="uk-grid-small" uk-grid>
         <div class="uk-width-expand@m">

@@ -61,6 +61,26 @@
         </div>
     </div>
 </div>
+<footer id="footer" class="uk-section-small">
+    <div class="uk-container">
+        <ul class="uk-subnav uk-subnav-divider site_map_f" uk-margin>
+            <li class="uk-active"><a href="#">trang chủ</a></li>
+            <li><a href="#">Giới thiệu</a></li>
+            <li><a href="#">Hỏi đáp</a></li>
+            <li><a href="#">Sơ đồ website</a></li>
+            <li><a href="#">Hòm thư</a></li>
+            <li><a href="#">Thư viện ảnh</a></li>
+            <li><a href="#">Liên hệ</a></li>
+        </ul>
+        <h3 class="title_f uk-text-uppercase">TRUNG TÂM HỖ TRỢ ĐÀO TẠO VÀ CUNG ỨNG NHÂN LỰC, BỘ GIÁO DỤC VÀ ĐÀO TẠO</h3>
+        <ul class="uk-list list1_f">
+            <li><span uk-icon="location"></span> Địa chỉ: Số 12 - 14 Lê Thánh Tông – Q.Hoàn Kiếm – TP.Hà Nội</li>
+            <li><span uk-icon="receiver"></span> Điện thoại (84-24) 38262018, Fax: (84-24) 38269466</li>
+            <li><span uk-icon="mail"></span> Email: trungtamhotrodaotao@moet.edu.vn</li>
+        </ul>
+        <p class="desc1_f">Giấy phép thiết lập trang tin điện tử số: 161/GP-TTĐT Bộ Thông tin và Truyền thông cấp ngày 13/11/2009</p>
+    </div>
+</footer>
 </section>
 </body>
 </html>

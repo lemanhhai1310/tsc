@@ -7,3 +7,40 @@
   background-color: #f8f8f8;
   border-top: 1px solid #d5d5d5;
 }
+#footer{
+  background-color: #3d519f;
+}
+.title_f{
+  font-size: 18px;
+  font-family: 'Roboto-Bold_0';
+  color: #ffffff;
+  margin-bottom: 10px;
+}
+.list1_f{
+  margin-top: 10px;
+  margin-bottom: 30px;
+  li{
+    color: #b7daff;
+    font-size: 13px;
+    font-family: 'Roboto-Regular';
+    margin: 0;
+    &:nth-child(n+2){
+      margin-top: 0;
+    }
+  }
+}
+.desc1_f{
+  color: #b7daff;
+  font-size: 13px;
+  font-family: 'Roboto-Regular';
+  margin-bottom: 10px;
+}
+.site_map_f{
+  li{
+    a{
+      font-family: 'Roboto-Bold_0';
+      font-size: 12px;
+      color: #ffffff !important;
+    }
+  }
+}

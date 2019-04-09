@@ -1,0 +1,21 @@
+.table1{
+  tr{
+    th{
+      text-transform: inherit;
+      background-color: #3d519f;
+      color: #ffffff;
+      border: 1px solid #3d519f;
+    }
+    td{
+      border: 1px solid #e5e5e5;
+      a{
+        color: #333333;
+      }
+    }
+  }
+  tbody{
+    tr{
+      border: 1px solid #e5e5e5;
+    }
+  }
+}

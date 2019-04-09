@@ -19,44 +19,26 @@
     <div class="uk-grid-small" uk-grid>
         <div class="uk-width-expand@m box4">
             <h3 class="title_thuvien1">72.000 cử nhân thất nghiệp do chưa có dự báo nguồn nhân lực</h3>
-            <ul class="uk-grid-small uk-grid" uk-grid="">
+            <ul class="uk-grid-small uk-grid uk-margin-bottom" uk-grid="">
                 <li class="uk-first-column"><i class="fa fa-clock-o" aria-hidden="true"></i> 11/7/2016</li>
                 <li><i class="fa fa-eye" aria-hidden="true"></i> 2.658 người xem</li>
             </ul>
-            <div class="uk-grid-small uk-child-width-1-3@m" uk-grid>
-                <?php for ($i=1;$i<=12;$i++){ ?>
-                <div>
-                    <div class="uk-cover-container uk-transition-toggle">
-                        <img src="https://znews-photo.zadn.vn/w480/Uploaded/ofh_cgmzstgk/2019_04_08/f42eff6b75c0979eced1_thumb.jpg" alt="" uk-cover>
-                        <canvas width="270" height="180"></canvas>
-                        <div class="uk-transition-fade uk-position-cover uk-overlay uk-overlay-primary uk-flex uk-flex-center uk-flex-middle"></div>
-                        <div class="uk-position-center">
-                            <a style="color: #ffffff;" href="https://znews-photo.zadn.vn/w480/Uploaded/ofh_cgmzstgk/2019_04_08/f42eff6b75c0979eced1_thumb.jpg" data-fancybox="gallery"><span class="uk-transition-fade" uk-icon="icon: plus-circle"></span></a>
-                        </div>
-                    </div>
-                </div>
-                <?php } ?>
-            </div>
-            <script>
-                $('[data-fancybox="gallery"]').fancybox({
-                    thumbs : {
-                        autoStart : true
-                    }
-                });
-            </script>
-            <h3 class="title_c uk-text-uppercase uk-margin">các hình ảnh khác</h3>
+            <iframe width="100%" height="550" src="https://www.youtube.com/embed/Lap1Z7O0xBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <h3 class="title_c uk-text-uppercase uk-margin">các video khác</h3>
             <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slider>
 
                 <ul class="uk-slider-items uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-3@m uk-grid-small" uk-grid>
-                    <?php for ($i=1;$i<=12;$i++){ ?>
+                    <?php for ($i=1;$i<=15;$i++){ ?>
                         <li>
                             <div class="uk-cover-container">
                                 <img src="https://znews-photo.zadn.vn/w480/Uploaded/ofh_cgmzstgk/2019_04_08/f42eff6b75c0979eced1_thumb.jpg" alt="" uk-cover>
-                                <canvas width="270" height="180"></canvas>
-                                <i style="color: #ffffff; bottom: 10px; left: 10px; font-size: 20px; z-index: 100" class="fa fa-picture-o uk-position-bottom-left" aria-hidden="true"></i>
+                                <canvas width="270" height="152"></canvas>
+                                <div class="uk-position-center uk-position-z-index">
+                                    <a href="thuvienvideo-chitiet.php"><img src="imgs/btn-play2.png" alt=""></a>
+                                </div>
                                 <div class="uk-position-cover uk-overlay uk-overlay-primary uk-flex uk-flex-center uk-flex-middle"></div>
                             </div>
-                            <h3 class="title_thuvien"><a href="thuvienhinhanh-chitiet.php">Bộ trưởng Phùng Xuân Nhạ báo cáo Chính phủ về kỳ thi THPT quốc gia</a></h3>
+                            <h3 class="title_thuvien"><a href="thuvienvideo-chitiet.php">Bộ trưởng Phùng Xuân Nhạ báo cáo Chính phủ về kỳ thi THPT quốc gia</a></h3>
                         </li>
                     <?php } ?>
                 </ul>

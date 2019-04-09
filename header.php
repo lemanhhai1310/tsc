@@ -9,12 +9,14 @@
     <link rel="stylesheet" href="assets/uikit-3.0.3/css/uikit.min.css">
     <link rel="stylesheet" href="assets/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
     <link rel="stylesheet" href="assets/OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="assets/fancybox-master/dist/jquery.fancybox.min.css">
     <link rel="stylesheet" href="css/layout.css">
     <!--JS-->
     <script src="assets/jquery/jquery-3.3.1.js"></script>
     <script src="assets/uikit-3.0.3/js/uikit.min.js"></script>
     <script src="assets/uikit-3.0.3/js/uikit-icons.min.js"></script>
     <script src="assets/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
+    <script src="assets/fancybox-master/dist/jquery.fancybox.min.js"></script>
 </head>
 <body>
 <!-- Load Facebook SDK for JavaScript -->

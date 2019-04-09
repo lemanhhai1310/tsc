@@ -19,7 +19,38 @@
     <div class="uk-grid-small" uk-grid>
         <div class="uk-width-expand@m">
             <h3 class="title_c uk-text-uppercase uk-margin">hỏi đáp</h3>
-
+            <div>
+                <div class="hoidap1">
+                    <div class="uk-grid-small" uk-grid>
+                        <div class="uk-width-auto">
+                            <span class="hd_stt">01</span>
+                        </div>
+                        <div class="uk-width-expand">
+                            <h5 class="title_hd"><a href="#">Hội thảo xây dựng báo cáo giữa kỳ dự án hợp tác Việt Nam - Liên minh Châu Âu về việc làm cho sinh viên ?</a></h5>
+                            <p>Phó Giám đốc Trung tâm Hỗ trợ đào tạo và Cung ứng nhân lực, Bộ GD&ĐT). Cách mạng công nghiệp 4.0 đặt ra yêu cầu cao hơn cho người lao động với đòi hỏi hàng loạt kỹ năng như: sáng tạo, quản lý, trí tuệ cảm xúc, đàm phán, ....<a href="#">Xem chi tiết</a></p>
+                            <ul class="uk-grid-collapse uk-child-width-auto" uk-grid>
+                                <li>11.07.2016</li>
+                                <li>duynguyen@gmail.com</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="hoidap1">
+                    <div class="uk-grid-small" uk-grid>
+                        <div class="uk-width-auto">
+                            <span class="hd_stt">02</span>
+                        </div>
+                        <div class="uk-width-expand">
+                            <h5 class="title_hd"><a href="#">Hội thảo xây dựng báo cáo giữa kỳ dự án hợp tác Việt Nam - Liên minh Châu Âu về việc làm cho sinh viên ?</a></h5>
+                            <p>Phó Giám đốc Trung tâm Hỗ trợ đào tạo và Cung ứng nhân lực, Bộ GD&ĐT). Cách mạng công nghiệp 4.0 đặt ra yêu cầu cao hơn cho người lao động với đòi hỏi hàng loạt kỹ năng như: sáng tạo, quản lý, trí tuệ cảm xúc, đàm phán, ....<a href="#">Xem chi tiết</a></p>
+                            <ul class="uk-grid-collapse uk-child-width-auto" uk-grid>
+                                <li>11.07.2016</li>
+                                <li>duynguyen@gmail.com</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <?php include('pagination.php'); ?>
         </div>
         <div class="uk-width-1-4@m">

@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f5f5f82-249a-4fbf-93be-f7c0174febaf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/danhmuctuyensinh.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_tuyensinh.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backtop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile_menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_backtop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scss/_mobile_menu.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/layout.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,12 +44,21 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="328">
-                  <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+                <state relative-caret-position="335">
+                  <caret line="132" column="25" lean-forward="true" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
                   <folding>
                     <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#div#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/footer.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="387">
+                  <caret line="70" column="44" lean-forward="true" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
                 </state>
               </provider>
             </entry>
@@ -69,11 +84,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/danhmuctuyensinh.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="530">
-                  <caret line="341" column="70" selection-start-line="341" selection-start-column="70" selection-end-line="341" selection-end-column="70" />
+                <state relative-caret-position="590">
+                  <caret line="554" column="31" lean-forward="true" selection-start-line="554" selection-start-column="31" selection-end-line="554" selection-end-column="31" />
                   <folding>
                     <element signature="e#80#2525#0#HTML" />
                     <element signature="e#2036#2093#0#HTML" />
@@ -93,29 +108,20 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/_commons.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/_danhsachtintuc.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/scss/layout.scss">
               <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="240">
+                  <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scss/_header.scss">
+              <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="210">
-                  <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+                  <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
                 </state>
               </provider>
             </entry>
@@ -129,11 +135,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scss/_tuyensinh.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="380">
-                  <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+                <state relative-caret-position="80">
+                  <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
                 </state>
               </provider>
             </entry>
@@ -152,6 +158,15 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="90">
                   <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scss/_mobile_menu.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
                 </state>
               </provider>
             </entry>
@@ -207,9 +222,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/scss/_header.scss" />
         <option value="$PROJECT_DIR$/scss/_card.scss" />
-        <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/scss/_home.scss" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/scss/_footer.scss" />
@@ -223,7 +236,6 @@
         <option value="$PROJECT_DIR$/scss/_chitiettintuc.scss" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/thuvienhinhanh.php" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/scss/_thuvienhinhanh.scss" />
         <option value="$PROJECT_DIR$/thuvienhinhanh-chitiet.php" />
         <option value="$PROJECT_DIR$/thuvienvideo.php" />
@@ -236,9 +248,13 @@
         <option value="$PROJECT_DIR$/modal_thanhcong.php" />
         <option value="$PROJECT_DIR$/scss/_vanban.scss" />
         <option value="$PROJECT_DIR$/danhsachvanban.php" />
-        <option value="$PROJECT_DIR$/scss/layout.scss" />
         <option value="$PROJECT_DIR$/scss/_tuyensinh.scss" />
         <option value="$PROJECT_DIR$/danhmuctuyensinh.php" />
+        <option value="$PROJECT_DIR$/scss/_header.scss" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/scss/_mobile_menu.scss" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/scss/layout.scss" />
       </list>
     </option>
   </component>
@@ -283,7 +299,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scss" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -292,11 +308,11 @@
       <recent name="$PROJECT_DIR$/imgs/github" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scss" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/fonts" />
-      <recent name="$PROJECT_DIR$/scss" />
-      <recent name="$PROJECT_DIR$/fonts/Roboto" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,12 +337,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554697783163</updated>
-      <workItem from="1554697784719" duration="36992000" />
+      <workItem from="1554697784719" duration="37942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36992000" />
+    <option name="totallyTimeSpent" value="37942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="6" />
@@ -390,13 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -417,16 +426,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="470">
           <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="65" column="57" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="57" />
-          <folding>
-            <element signature="n#div#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -531,17 +530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_thuvienhinhanh.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -597,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_menu_hover_sub.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hoidap-chitiet.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -653,13 +634,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/layout.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/danhsachvanban.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -677,17 +651,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_tuyensinh.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="38" column="17" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/danhmuctuyensinh.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="341" column="70" selection-start-line="341" selection-start-column="70" selection-end-line="341" selection-end-column="70" />
+        <state relative-caret-position="590">
+          <caret line="554" column="31" lean-forward="true" selection-start-line="554" selection-start-column="31" selection-end-line="554" selection-end-column="31" />
           <folding>
             <element signature="e#80#2525#0#HTML" />
             <element signature="e#2036#2093#0#HTML" />
@@ -699,6 +666,66 @@
             <element signature="e#24102#26853#0#HTML" />
             <element signature="e#15802#26359#0#HTML" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_tuyensinh.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="18" column="4" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../html.evnspc/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="190" column="21" lean-forward="true" selection-start-line="178" selection-start-column="16" selection-end-line="190" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_menu_hover_sub.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="132" column="25" lean-forward="true" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="70" column="44" lean-forward="true" selection-start-line="70" selection-start-column="44" selection-end-line="70" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_mobile_menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>

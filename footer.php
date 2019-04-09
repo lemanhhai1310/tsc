@@ -81,6 +81,7 @@
         <p class="desc1_f">Giấy phép thiết lập trang tin điện tử số: 161/GP-TTĐT Bộ Thông tin và Truyền thông cấp ngày 13/11/2009</p>
     </div>
 </footer>
+<?php include('backtop.php'); ?>
 </section>
 </body>
 </html>

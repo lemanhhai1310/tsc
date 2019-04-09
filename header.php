@@ -17,6 +17,7 @@
     <script src="assets/uikit-3.0.3/js/uikit-icons.min.js"></script>
     <script src="assets/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
     <script src="assets/fancybox-master/dist/jquery.fancybox.min.js"></script>
+    <script src="js/main.js"></script>
 </head>
 <body>
 <!-- Load Facebook SDK for JavaScript -->
@@ -51,7 +52,7 @@
             <div>
                 <div class="uk-grid-small uk-flex-middle" uk-grid>
                     <div class="uk-width-auto">
-                        <figure><a href="#"><img src="imgs/logo.png" alt=""></a></figure>
+                        <figure><a href="."><img src="imgs/logo.png" alt=""></a></figure>
                     </div>
                     <div class="uk-width-expand">
                         <h2 class="uk-text-uppercase title_logo1">Bộ giáo dục và đào tạo</h2>
@@ -69,7 +70,7 @@
 <header id="header" uk-sticky>
     <div class="uk-container">
         <nav class="uk-navbar-container uk-navbar-transparent" uk-navbar>
-            <div class="uk-navbar-left">
+            <div class="uk-navbar-left uk-visible@m">
 
                 <ul class="uk-navbar-nav">
                     <li class="uk-active"><a href="#">trang chủ</a></li>
@@ -110,6 +111,40 @@
                     <li><a href="#">liên hệ</a></li>
                 </ul>
             </div>
+            <div class="nav-overlay uk-navbar-left uk-hidden@m">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a href="#" class="uk-padding-remove-left">
+                            <div id="mobile_menu_toggler">
+                                <div id="m_nav_menu" class="m_nav">
+                                    <div class="m_nav_ham button_closed" id="m_ham_1"></div>
+                                    <div class="m_nav_ham button_closed" id="m_ham_2"></div>
+                                    <div class="m_nav_ham button_closed" id="m_ham_3"></div>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="nav-overlay uk-navbar-right uk-hidden@m">
+                <ul class="uk-navbar-nav">
+                    <li>
+                        <a class="uk-navbar-toggle uk-padding-remove-right" uk-search-icon uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="nav-overlay uk-navbar-left uk-flex-1" hidden>
+
+                <div class="uk-navbar-item uk-width-expand">
+                    <form class="uk-search uk-search-navbar uk-width-1-1">
+                        <input class="uk-search-input" type="search" placeholder="Search..." autofocus>
+                    </form>
+                </div>
+
+                <a class="uk-navbar-toggle" uk-close uk-toggle="target: .nav-overlay; animation: uk-animation-fade" href="#"></a>
+
+            </div>
         </nav>
     </div>
+    <?php include('mobile_menu.php'); ?>
 </header>

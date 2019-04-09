@@ -1,0 +1,16 @@
+.uk-breadcrumb{
+  font-family: 'Roboto-Regular';
+  li{
+    &:nth-child(n+2){
+      &:before{
+        margin: 0 15px !important;
+      }
+    }
+    a{
+
+    }
+    span{
+      color: #97204a !important;
+    }
+  }
+}

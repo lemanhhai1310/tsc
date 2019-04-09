@@ -1,0 +1,23 @@
+.uk-pagination{
+  li{
+    padding: 0;
+    &.uk-active{
+      a{
+        background-color: #97204b;
+        color: #ffffff;
+        border-color: #97204b;
+      }
+    }
+    a{
+      border: 1px solid #e3e3e2;
+      display: inline-block;
+      padding: 6px 15px;
+      margin-left: -1px;
+      &:hover{
+        background-color: #97204b;
+        color: #ffffff;
+        border-color: #97204b;
+      }
+    }
+  }
+}

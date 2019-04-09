@@ -18,21 +18,17 @@
     </div>
     <div class="uk-grid-small" uk-grid>
         <div class="uk-width-expand@m">
-            <h3 class="title_c uk-text-uppercase uk-margin">thư viện hình ảnh</h3>
+
             <div class="uk-grid-small uk-child-width-1-3@m" uk-grid>
                 <?php for ($i=1;$i<=12;$i++){ ?>
                 <div>
                     <div class="uk-cover-container">
                         <img src="https://znews-photo.zadn.vn/w480/Uploaded/ofh_cgmzstgk/2019_04_08/f42eff6b75c0979eced1_thumb.jpg" alt="" uk-cover>
                         <canvas width="269" height="181"></canvas>
-                        <i style="color: #ffffff; bottom: 10px; left: 10px; font-size: 20px; z-index: 100" class="fa fa-picture-o uk-position-bottom-left" aria-hidden="true"></i>
-                        <div class="uk-position-cover uk-overlay uk-overlay-primary uk-flex uk-flex-center uk-flex-middle"></div>
                     </div>
-                    <h3 class="title_thuvien"><a href="thuvienhinhanh-chitiet.php">Bộ trưởng Phùng Xuân Nhạ báo cáo Chính phủ về kỳ thi THPT quốc gia</a></h3>
                 </div>
                 <?php } ?>
             </div>
-            <?php include('pagination.php'); ?>
         </div>
         <div class="uk-width-1-4@m">
             <div class="uk-margin-small">

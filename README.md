@@ -9,3 +9,7 @@
 # Trang chi tiết tin tức
 
 [![N|Solid](imgs/github/chitiettintuc.jpg)](imgs/github/chitiettintuc.jpg)
+
+# Trang thư viện hình ảnh
+
+[![N|Solid](imgs/github/thuvienhinhanh.jpg)](imgs/github/thuvienhinhanh.jpg)
